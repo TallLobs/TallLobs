@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TallLobs
+- 👀 I’m interested in automated trading
+- 🌱 I’m currently learning python
